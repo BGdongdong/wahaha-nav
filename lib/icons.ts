@@ -40,7 +40,8 @@ import {
   Zap,
   Heart,
   Coffee,
-  Palette
+  Palette,
+  badge,
 } from 'lucide-react'
 
 export const navigationIcons = {

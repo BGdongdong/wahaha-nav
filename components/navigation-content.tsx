@@ -110,6 +110,19 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 >
                   <Github className="h-5 w-5" />
                 </Button>
+              <Link
+                href="https://github.com/BGdongdong/wahaha-Nav"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="访问 GitHub 仓库"
+              >
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="hover:bg-accent hover:text-accent-foreground"
+                >
+                  <Github className="h-5 w-5" />
+                </Button>
               </Link>
               <Link
                 href="https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg"

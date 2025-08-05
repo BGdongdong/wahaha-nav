@@ -9,8 +9,8 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: {
-    default: 'wahaha',
-    template: '%s - wahaha'
+    default: '',
+    template: '%s - '
   },
   description: 'A modern navigation platform',
   icons: {

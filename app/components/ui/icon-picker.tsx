@@ -19,6 +19,7 @@ const ICONS = [
   { name: 'linecons-cloud', label: '云' },
   { name: 'linecons-paper-plane', label: '纸飞机' },
   { name: 'linecons-search', label: '搜索' },
+  { name: 'linecons-armchair', label: '沙发' },
   // 添加更多图标...
 ]
 

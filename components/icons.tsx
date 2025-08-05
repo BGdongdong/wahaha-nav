@@ -20,7 +20,7 @@ import {
   Folder,
   FolderOpen,
   Gift,
-  Github,
+  Badge,
   Globe,
   GripVertical,
   Headphones,

@@ -5,8 +5,8 @@ import { Toaster } from "@/registry/new-york/ui/toaster"
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'NavSphere Admin',
-  description: 'NavSphere Admin Dashboard',
+  title: 'wahaha',
+  description: 'wahaha Dashboard',
   icons: {
     icon: '/assets/images/favicon.png',
     shortcut: '/assets/images/favicon.png',

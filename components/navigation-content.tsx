@@ -8,7 +8,7 @@ import { Sidebar } from '@/components/sidebar'
 import { SearchBar } from '@/components/search-bar'
 import { ModeToggle } from '@/components/mode-toggle'
 import { Footer } from '@/components/footer'
-import { Github, X, HelpCircle } from 'lucide-react'
+import { Github, HelpCircle } from 'lucide-react'
 import { Button } from "@/registry/new-york/ui/button"
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
@@ -152,19 +152,6 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
                   <Github className="h-5 w-5" />
-                </Button>
-                <Link
-                href="https://github.com/BGdongdong/wahaha-Nav"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="访问 GitHub 仓库"
-              >
-                <Button
-                  variant="ghost"
-                  size="icon"
-                  className="hover:bg-accent hover:text-accent-foreground"
-                >
-                  <X className="h-5 w-5" />
                 </Button>
               </Link>
               <Link

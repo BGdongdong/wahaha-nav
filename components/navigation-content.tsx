@@ -8,7 +8,7 @@ import { Sidebar } from '@/components/sidebar'
 import { SearchBar } from '@/components/search-bar'
 import { ModeToggle } from '@/components/mode-toggle'
 import { Footer } from '@/components/footer'
-import { GitHub, HelpCircle, Coffee } from 'lucide-react'
+import { GitHub, HelpCircle } from 'lucide-react'
 import { Button } from "@/registry/new-york/ui/button"
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
@@ -125,14 +125,6 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <HelpCircle className="h-5 w-5" />
                 </Button>
               </Link>
-              <Button
-                variant="ghost"
-                size="icon"
-                className="sm:hidden"
-                onClick={() => setIsSidebarOpen(!isSidebarOpen)}
-              >
-                <Menu className="h-5 w-5" />
-              </Button>
               <Link
                 href="https://github.com/BGdongdong/wahaha-Nav"
                 target="_blank"
@@ -145,7 +137,14 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
                   <Coffee className="h-5 w-5" />
-                </Button>
+              <Button
+                variant="ghost"
+                size="icon"
+                className="sm:hidden"
+                onClick={() => setIsSidebarOpen(!isSidebarOpen)}
+              >
+                <Menu className="h-5 w-5" />
+              </Button>
               </Link>
 
             </div>

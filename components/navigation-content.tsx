@@ -109,6 +109,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
                   <GitHub className="h-5 w-5" />
+                </Button>
               <Link
                 href="https://github.com/BGdongdong/wahaha-Nav"
                 target="_blank"

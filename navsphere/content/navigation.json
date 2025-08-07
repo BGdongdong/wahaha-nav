@@ -40,6 +40,14 @@
               "description": "个人资源站",
               "icon": "/assets/favicon_1754559571454.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754559628057_0wd848q4r",
+              "title": "❖Y.Fengxiang",
+              "href": "https://bento.me/yufengxiang",
+              "description": "This love separates mountains and oceans, but mountains and oceans can be leveled.",
+              "icon": "https://creatorspace.imgix.net/users/cm7k7ec8304kgrn01p8txowbh/UKyloDldVRw7dmOG-abstract-8750691_1920.png?w=200&amp;h=200&amp;fit=crop",
+              "enabled": true
             }
           ]
         }

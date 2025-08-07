@@ -16,6 +16,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1754561677021_svb9t1kdo",
+              "title": "Google",
+              "href": "https://www.google.com/",
+              "description": "Google 是一个全球知名的搜索引擎，提供快速、精准的网络信息搜索服务。",
+              "icon": "/assets/img_1754561615735.png",
+              "enabled": true
+            },
+            {
               "id": "site_1754561400485_vt6zwwcww",
               "title": "Search - Microsoft Bing",
               "href": "https://www.bing.com/",
@@ -29,14 +37,6 @@
               "href": "https://www.ecosia.org/",
               "description": "熟悉的搜索，更环保的影响\n切换到地球上最环保的搜索引擎",
               "icon": "/assets/img_1754561513377.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1754561677021_svb9t1kdo",
-              "title": "Google",
-              "href": "https://www.google.com/",
-              "description": "Google 是一个全球知名的搜索引擎，提供快速、精准的网络信息搜索服务。",
-              "icon": "/assets/img_1754561615735.png",
               "enabled": true
             },
             {

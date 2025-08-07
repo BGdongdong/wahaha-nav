@@ -869,6 +869,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754559478959",
+      "title": "项目",
+      "icon": "Crown",
+      "description": "个人项目",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

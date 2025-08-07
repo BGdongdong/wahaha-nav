@@ -14,7 +14,16 @@
           "icon": "Search",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754561400485_vt6zwwcww",
+              "title": "Search - Microsoft Bing",
+              "href": "https://www.bing.com/",
+              "description": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.",
+              "icon": "/assets/favicon_1754561387875.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },

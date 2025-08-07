@@ -14,16 +14,7 @@
           "icon": "Search",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1754558772937_5zwpou6p6",
-              "title": "资源站",
-              "href": "https://www.mvpbook.cn/",
-              "description": "",
-              "icon": "/assets/favicon_1754558760618.ico",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },

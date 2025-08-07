@@ -1,4 +1,5 @@
 import { 
+  House,
   Crown,
   Folder,
   FolderOpen,
@@ -110,7 +111,8 @@ export const navigationIcons = {
   Zap,
   Heart,
   Coffee,
-  Crown
+  Crown,
+  House
 }
 
 export type IconType = keyof typeof navigationIcons

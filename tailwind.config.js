@@ -53,16 +53,19 @@ module.exports = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
-      // 配置圆润加粗的字体
+      // 替换为谷歌思源黑体（接近幼圆的圆润风格）
       fontFamily: {
         sans: [
-          'Nunito', // 圆润风格的字体
-          'Noto Sans SC', // 适合中文的圆润字体
-          ...fontFamily.sans, // 保留默认字体作为 fallback
+          'Noto Sans SC', // 谷歌中文字体，圆润清晰
+          'Microsoft YaHei', //  fallback：微软雅黑（系统预装，风格接近）
+          'SimHei', //  fallback：黑体
+          ...fontFamily.sans,
         ],
       },
-      // 扩展字体粗细选项，增加更粗的字重
+      // 字体粗细配置（默认加粗）
       fontWeight: {
+        default: 600, // 全局默认字重（600为半粗体，可改为700/800更粗）
+        bold: 700,
         'extra-bold': 800,
         'black': 900,
       },
@@ -92,4 +95,3 @@ module.exports = {
     require('tailwind-scrollbar'),
   ],
 }
-    

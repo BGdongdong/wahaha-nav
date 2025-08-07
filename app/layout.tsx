@@ -28,7 +28,7 @@ export default function RootLayout({
       <head>
         {/* 引入圆润加粗的字体 */}
         <link
-          href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+SC:wght@400;500;700;900&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;600;700;800&display=swap"
           rel="stylesheet"
         />
         

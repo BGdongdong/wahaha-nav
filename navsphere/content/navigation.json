@@ -842,6 +842,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754532783346",
+      "title": "首页",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

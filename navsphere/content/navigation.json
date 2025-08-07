@@ -112,8 +112,8 @@
     },
     {
       "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "title": "资源",
+      "icon": "Database",
       "items": [
         {
           "id": "1_2",

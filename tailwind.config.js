@@ -53,6 +53,19 @@ module.exports = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
+      // 配置圆润加粗的字体
+      fontFamily: {
+        sans: [
+          'Nunito', // 圆润风格的字体
+          'Noto Sans SC', // 适合中文的圆润字体
+          ...fontFamily.sans, // 保留默认字体作为 fallback
+        ],
+      },
+      // 扩展字体粗细选项，增加更粗的字重
+      fontWeight: {
+        'extra-bold': 800,
+        'black': 900,
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
@@ -79,4 +92,4 @@ module.exports = {
     require('tailwind-scrollbar'),
   ],
 }
-
+    

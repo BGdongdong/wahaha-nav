@@ -34,7 +34,16 @@
       "description": "个人项目",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3465f3c0-72b4-4a73-8af5-09dd6e4cfebc",
+          "title": "个人项目",
+          "icon": "User",
+          "description": "个人搭建的项目",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",

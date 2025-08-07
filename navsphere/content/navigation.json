@@ -7,7 +7,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "1430d69e-70c5-43dd-ade8-48a2c402b7af",
+          "title": "搜索引擎",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",

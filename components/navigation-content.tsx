@@ -8,7 +8,7 @@ import { Sidebar } from '@/components/sidebar'
 import { SearchBar } from '@/components/search-bar'
 import { ModeToggle } from '@/components/mode-toggle'
 import { Footer } from '@/components/footer'
-import { Github, HelpCircle,Coffee } from 'lucide-react'
+import { Github, HelpCircle, coffee } from 'lucide-react'  // 新增咖啡图标导入
 import { Button } from "@/registry/new-york/ui/button"
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
@@ -140,8 +140,25 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             </div>
             <div className="flex items-center gap-1">
               <ModeToggle />
+              
+              {/* 新增咖啡图标链接 */}
               <Link
-                href="https://github.com/BGdongdong/wahaha-Nav"
+                href="https://wahaha-nav.pages.dev/"  // 替换为实际链接
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="咖啡相关链接"
+              >
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="hover:bg-accent hover:text-accent-foreground"
+                >
+                  <coffee className="h-5 w-5" />  {/* 咖啡图标使用 */}
+                </Button>
+              </Link>
+              
+              <Link
+                href="https://github.com/tianyaxiang/NavSphere"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="访问 GitHub 仓库"
@@ -154,6 +171,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <Github className="h-5 w-5" />
                 </Button>
               </Link>
+              
               <Link
                 href="https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg"
                 target="_blank"
@@ -167,20 +185,9 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 >
                   <HelpCircle className="h-5 w-5" />
                 </Button>
-                <Link
-                href="https://github.com/BGdongdong/wahaha-Nav"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="访问 GitHub 仓库"
-              >
-                <Button
-                  variant="ghost"
-                  size="icon"
-                  className="hover:bg-accent hover:text-accent-foreground"
-                >
-                  <Coffee className="h-5 w-5" />
-                </Button>
-                <Button
+              </Link>
+              
+              <Button
                 variant="ghost"
                 size="icon"
                 className="sm:hidden"

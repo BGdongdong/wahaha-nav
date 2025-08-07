@@ -153,7 +153,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <Coffee className="h-5 w-5" />  {/* 咖啡图标使用 */}
+                  <Coffee className="h-10 w-10" />  {/* 咖啡图标使用 */}
                 </Button>
               </Link>
               
@@ -168,7 +168,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <Github className="h-5 w-5" />
+                  <Github className="h-10 w-10" />
                 </Button>
               </Link>
               
@@ -183,7 +183,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <HelpCircle className="h-5 w-5" />
+                  <HelpCircle className="h-10 w-10" />
                 </Button>
               </Link>
               
@@ -193,7 +193,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 className="sm:hidden"
                 onClick={() => setIsSidebarOpen(!isSidebarOpen)}
               >
-                <Menu className="h-5 w-5" />
+                <Menu className="h-10 w-10" />
               </Button>
             </div>
           </div>

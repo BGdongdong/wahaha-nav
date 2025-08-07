@@ -38,6 +38,14 @@
               "description": "Google 是一个全球知名的搜索引擎，提供快速、精准的网络信息搜索服务。",
               "icon": "/assets/img_1754561615735.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754562470723_x8irltwj5",
+              "title": "DuckDuckGo - Protection. Privacy. Peace of mind.",
+              "href": "https://duckduckgo.com/",
+              "description": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.",
+              "icon": "/assets/favicon_1754562462781.ico",
+              "enabled": true
             }
           ]
         }

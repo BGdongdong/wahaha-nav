@@ -1,6 +1,6 @@
 import { 
-  smile,
-  bookmark,
+  Smile,
+  Bookmark,
   Youtube,
   Camera,
   Send,
@@ -151,8 +151,8 @@ export const navigationIcons = {
   BriefcaseBusiness,
   Plane,
   Droplet,
-  smile,
-  bookmark
+  Smile,
+  Bookmark
 }
 
 export type IconType = keyof typeof navigationIcons

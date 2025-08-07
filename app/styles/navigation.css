@@ -516,8 +516,8 @@
 /* 按钮共享样式 */
 .theme-toggle,
 .scroll-to-top {
-  width: 48px;
-  height: 48px;
+  width: 40px;
+  height: 40px;
 }
 
 /* 响应式调整 */

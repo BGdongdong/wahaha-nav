@@ -210,8 +210,8 @@
     },
     {
       "id": "2",
-      "title": "常用工具",
-      "icon": "Laptop",
+      "title": "工具",
+      "icon": "Atom",
       "items": [],
       "subCategories": [
         {

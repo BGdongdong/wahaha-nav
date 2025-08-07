@@ -48,6 +48,14 @@
               "description": "This love separates mountains and oceans, but mountains and oceans can be leveled.",
               "icon": "https://creatorspace.imgix.net/users/cm7k7ec8304kgrn01p8txowbh/UKyloDldVRw7dmOG-abstract-8750691_1920.png?w=200&amp;h=200&amp;fit=crop",
               "enabled": true
+            },
+            {
+              "id": "site_1754559654591_fl3t6zmo6",
+              "title": "MoonTV",
+              "href": "https://itv.mvpbook.cn/",
+              "description": "影视聚合",
+              "icon": "/assets/favicon_1754559648251.ico",
+              "enabled": true
             }
           ]
         }

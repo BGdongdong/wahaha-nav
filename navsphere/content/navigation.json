@@ -390,8 +390,8 @@
     },
     {
       "id": "9",
-      "title": "AI工具包",
-      "icon": "Brain",
+      "title": "AI工具",
+      "icon": "Bot",
       "items": [],
       "subCategories": [
         {

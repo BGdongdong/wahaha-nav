@@ -218,15 +218,6 @@
       "enabled": true
     },
     {
-      "id": "1754564555766",
-      "title": "娱乐",
-      "icon": "Smile",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "2",
       "title": "工具",
       "icon": "Atom",
@@ -405,6 +396,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1754564555766",
+      "title": "娱乐",
+      "icon": "Smile",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     },
     {
       "id": "9",

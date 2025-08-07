@@ -41,7 +41,16 @@
           "icon": "User",
           "description": "个人搭建的项目",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754559589523_e3dswckin",
+              "title": "资源站",
+              "href": "https://www.mvpbook.cn/",
+              "description": "个人资源站",
+              "icon": "/assets/favicon_1754559571454.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },

@@ -64,6 +64,14 @@
               "description": "LibreTV是一个免费的在线视频搜索平台，无广告、安全，提供来自多个视频源的内容搜索与观看服务，无需注册即可使用。",
               "icon": "/assets/favicon_1754559665864.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754559688993_5e3lvzfqg",
+              "title": "Telegraph-Image|免费图床",
+              "href": "https://tuku.mvpbook.cn/",
+              "description": "免费图床，基于Telegraph的图片上传工具",
+              "icon": "https://tuku.mvpbook.cn/favicon.ico",
+              "enabled": true
             }
           ]
         }

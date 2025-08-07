@@ -8,7 +8,7 @@ import { Sidebar } from '@/components/sidebar'
 import { SearchBar } from '@/components/search-bar'
 import { ModeToggle } from '@/components/mode-toggle'
 import { Footer } from '@/components/footer'
-import { Github, HelpCircle, coffee } from 'lucide-react'  // 新增咖啡图标导入
+import { Github, HelpCircle, Coffee } from 'lucide-react'  // 新增咖啡图标导入
 import { Button } from "@/registry/new-york/ui/button"
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
@@ -153,7 +153,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <coffee className="h-5 w-5" />  {/* 咖啡图标使用 */}
+                  <Coffee className="h-5 w-5" />  {/* 咖啡图标使用 */}
                 </Button>
               </Link>
               

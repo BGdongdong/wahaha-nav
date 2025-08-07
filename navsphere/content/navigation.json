@@ -1,6 +1,24 @@
 {
   "navigationItems": [
     {
+      "id": "1754532783346",
+      "title": "首页",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "1430d69e-70c5-43dd-ade8-48a2c402b7af",
+          "title": "搜索引擎",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",

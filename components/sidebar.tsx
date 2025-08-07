@@ -30,23 +30,23 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
   }
 
   const renderIcon = (iconName?: string) => {
-    if (!iconName) return <LucideIcons.Folder className="h-4 w-4" />;
+    if (!iconName) return <LucideIcons.Folder className="h-5 w-5" />;
     
     if (iconName.startsWith('/') || iconName.startsWith('http')) {
       return (
         <Image
           src={iconName}
           alt="icon"
-          width={16}
-          height={16}
-          className="h-4 w-4"
+          width={20}
+          height={20}
+          className="h-5 w-5"
         />
       );
     }
     
     // Convert icon name to match Lucide icon component name
     const IconComponent = (LucideIcons as any)[iconName] || LucideIcons.Folder;
-    return <IconComponent className="h-4 w-4" />;
+    return <IconComponent className="h-5 w-5" />;
   }
 
   // 使用对象存储每个分类的展开状态

@@ -1004,6 +1004,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754644874730",
+      "title": "教育",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

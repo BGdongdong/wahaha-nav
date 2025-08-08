@@ -505,15 +505,6 @@
       "enabled": true
     },
     {
-      "id": "9",
-      "title": "AI工具",
-      "icon": "Bot",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "1754644874730",
       "title": "教育",
       "icon": "BookOpen",

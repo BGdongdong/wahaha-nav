@@ -343,6 +343,14 @@
           "description": "",
           "items": [
             {
+              "id": "1754623598996",
+              "title": "免费logo在线制作,logo设计,logo在线生成,字体logo设计,U钙网",
+              "href": "https://www.uugai.com/",
+              "description": "智能AI商标logo设计，100%U钙网原创，无论你董不懂设计,仅需输入文字，您就可以自助设计出专业、精美的LOGO,无限制免费下载，十几年专业专注智能LOGO设计，服务用户已超千万",
+              "icon": "/assets/favicon_1754623603048.ico",
+              "enabled": true
+            },
+            {
               "id": "3_1",
               "title": "TableConvert",
               "href": "https://tableconvert.com/",
@@ -388,14 +396,6 @@
               "href": "https://screenshots.pro/",
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
-              "enabled": true
-            },
-            {
-              "id": "1754623598996",
-              "title": "免费logo在线制作,logo设计,logo在线生成,字体logo设计,U钙网",
-              "href": "https://www.uugai.com/",
-              "description": "智能AI商标logo设计，100%U钙网原创，无论你董不懂设计,仅需输入文字，您就可以自助设计出专业、精美的LOGO,无限制免费下载，十几年专业专注智能LOGO设计，服务用户已超千万",
-              "icon": "/assets/favicon_1754623603048.ico",
               "enabled": true
             }
           ],

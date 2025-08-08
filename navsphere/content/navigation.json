@@ -220,7 +220,16 @@
           "icon": "Image",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754643975427_ysffnil56",
+              "title": "wallhaven壁纸官网",
+              "href": "https://wallhaven.wpcoder.cn/",
+              "description": "Your source for the best high quality wallpapers on the Net!",
+              "icon": "/assets/favicon_1754643967478.ico",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",

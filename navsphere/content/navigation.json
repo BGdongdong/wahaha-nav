@@ -426,6 +426,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "658c3c43-fdbe-41c9-823f-34f084e1a0e7",
+          "title": "AI工具",
+          "icon": "Bot",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",

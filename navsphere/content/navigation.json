@@ -228,6 +228,14 @@
               "description": "Your source for the best high quality wallpapers on the Net!",
               "icon": "/assets/favicon_1754643967478.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754644773339_f9u2z62s3",
+              "title": "Pexels",
+              "href": "https://www.pexels.com/zh-cn/",
+              "description": "才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频",
+              "icon": "/assets/img_1754644770045.png",
+              "enabled": true
             }
           ]
         }

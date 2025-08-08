@@ -213,7 +213,16 @@
           "enabled": true
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "8f4d27cd-db17-4c1e-9df8-8c72405d5c98",
+          "title": "壁纸",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
